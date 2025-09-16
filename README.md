@@ -35,4 +35,4 @@ TechStore/
 │── register.php # user register
 │── orders.php # user order history
 
-Developed By : KAMRAN ALI
+Developed by : KAMRAN ALI
